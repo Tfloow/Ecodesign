@@ -5,6 +5,8 @@
   - [Questions to ask the TA](#questions-to-ask-the-ta)
 
 
+This repo contains artifacts of our LCA of ICT tools and usage
+
 ## LCA - Processes
 
 ![server](process/server.png)

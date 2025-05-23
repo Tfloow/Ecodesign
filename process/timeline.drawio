@@ -1,25 +1,25 @@
 <mxfile host="65bd71144e">
     <diagram id="G20aVggGCp_uHF7p-jnl" name="Page-1">
-        <mxGraphModel dx="1047" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1152" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="9" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;After COVID:&lt;/span&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;58550 Students and 7292 PhD Students&lt;/li&gt;&lt;li&gt;Servers, Desktops, Laptops provided by KU Leuven&lt;/li&gt;&lt;li&gt;Toledo/Ultra in the Cloud&lt;/li&gt;&lt;li&gt;Video recording, moderate streaming&lt;/li&gt;&lt;li&gt;Some meeting, conference&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+                <mxCell id="9" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;After COVID:&lt;/span&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;58550 Students and 7292 PhD Students&lt;/li&gt;&lt;li&gt;Servers, Desktops, Laptops provided by KU Leuven&lt;/li&gt;&lt;li&gt;Toledo/Ultra in the Cloud&lt;/li&gt;&lt;li&gt;Video recording, moderate streaming&lt;/li&gt;&lt;li&gt;Some meeting, conference&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
                     <mxGeometry x="560" y="210" width="280" height="190" as="geometry"/>
                 </mxCell>
-                <mxCell id="8" value="Before COVID:&lt;div&gt;&lt;ul&gt;&lt;li&gt;58550 Students and 7292 PhD Students&lt;/li&gt;&lt;li&gt;Servers, Desktops, Laptops provided by KU Leuven&lt;/li&gt;&lt;li&gt;&lt;b&gt;No&lt;/b&gt; Toledo/Ultra in the Cloud&lt;/li&gt;&lt;li&gt;&lt;b&gt;No&lt;/b&gt; video recording&lt;/li&gt;&lt;li&gt;&lt;b&gt;Few&lt;/b&gt; meeting, conference&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+                <mxCell id="8" value="Before COVID:&lt;div&gt;&lt;ul&gt;&lt;li&gt;58550 Students and 7292 PhD Students&lt;/li&gt;&lt;li&gt;Servers, Desktops, Laptops provided by KU Leuven&lt;/li&gt;&lt;li&gt;&lt;b&gt;No&lt;/b&gt; Toledo/Ultra in the Cloud&lt;/li&gt;&lt;li&gt;&lt;b&gt;No&lt;/b&gt; video recording&lt;/li&gt;&lt;li&gt;&lt;b&gt;Few&lt;/b&gt; meetings, conferences&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
                     <mxGeometry y="210" width="280" height="190" as="geometry"/>
                 </mxCell>
-                <mxCell id="7" value="During COVID:&lt;div&gt;&lt;ul&gt;&lt;li&gt;58550 Students and 7292 PhD Students&lt;/li&gt;&lt;li&gt;Servers, Desktops, Laptops provided by KU Leuven&lt;/li&gt;&lt;li&gt;Toledo/Ultra in the Cloud&lt;/li&gt;&lt;li&gt;Video recording, high streaming&lt;/li&gt;&lt;li&gt;Lot of meeting, conference&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;fillColor=#f8cecc;strokeColor=#b85450;align=center;" vertex="1" parent="1">
+                <mxCell id="7" value="During COVID:&lt;div&gt;&lt;ul&gt;&lt;li&gt;58550 Students and 7292 PhD Students&lt;/li&gt;&lt;li&gt;Servers, Desktops, Laptops provided by KU Leuven&lt;/li&gt;&lt;li&gt;Toledo/Ultra in the Cloud&lt;/li&gt;&lt;li&gt;Video recording, high streaming&lt;/li&gt;&lt;li&gt;Lot of meetings, conferences&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;fillColor=#f8cecc;strokeColor=#b85450;align=center;" parent="1" vertex="1">
                     <mxGeometry x="280" y="210" width="280" height="190" as="geometry"/>
                 </mxCell>
-                <mxCell id="2" value="" style="shape=flexArrow;endArrow=classic;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=1;endSize=6;width=25;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="8" target="9">
+                <mxCell id="2" value="" style="shape=flexArrow;endArrow=classic;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=1;endSize=6;width=25;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" parent="1" source="8" target="9" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="50" y="210" as="sourcePoint"/>
                         <mxPoint x="780" y="210" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="11" value="Time" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;spacing=7;" vertex="1" connectable="0" parent="2">
+                <mxCell id="11" value="Time" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;spacing=7;" parent="2" vertex="1" connectable="0">
                     <mxGeometry x="0.0048" y="-3" relative="1" as="geometry">
                         <mxPoint x="-2" y="-3" as="offset"/>
                     </mxGeometry>
